@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  margin: 100px auto;
+  padding: 40px;
+  width: 450px;
+  text-align: center;
+  background-color: burlywood;
+}
